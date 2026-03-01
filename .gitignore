@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/.env
+/db-data
+db-init/mysql.sock
+db-init/ib*
+db-init/binlog.*
+.dart_tool/
+build/
+linux/flutter/generated_*
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/generated_*
+
